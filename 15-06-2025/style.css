@@ -1,0 +1,6 @@
+.list{
+    list-style-type: square;
+}
+.list:hover::before{
+    content:'⭐';
+}
